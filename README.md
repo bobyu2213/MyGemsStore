@@ -1,5 +1,3 @@
 # MyGemsStore
 
 Hello World!
-
-
